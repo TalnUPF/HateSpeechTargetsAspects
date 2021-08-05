@@ -1,0 +1,566 @@
+concept,pos,tf_collection
+women,NN,129
+girls,NN,101
+woman,NN,40
+kat,NN,32
+men,NN,32
+people,NN,19
+feminists,NN,19
+girl,NN,13
+andre,NN,11
+man,NN,10
+females,NN,9
+stop,NN,8
+nikki,NN,7
+bitches,NN,7
+guy,NN,6
+annie,NN,6
+bitch,NN,5
+dont,NN,5
+gender,NN,4
+female comedians,JJ NN,4
+football,NN,4
+go,NN,4
+feminism,NN,4
+producers,NN,4
+fems,NN,4
+two,CD,4
+guys,NN,4
+dick,NN,3
+shit,NN,3
+kats,NN,3
+dishes,NN,3
+movement,NN,3
+sexist,NN,3
+person,NN,3
+feminist,NN,3
+ta,NN,3
+drama,NN,3
+bimbos,NN,3
+blondes,NN,3
+smile,NN,3
+rights,NN,3
+putin,NN,3
+cant,NN,3
+children,NN,3
+hair,NN,3
+group,NN,2
+ford,NN,2
+dad,NN,2
+dog,NN,2
+leftovers,NN,2
+television,NN,2
+scientist,NN,2
+feelings,NN,2
+equality,NN,2
+train,NN,2
+frog,NN,2
+glass house,NN NN,2
+comedians,NN,2
+female rappers,JJ NN,2
+said men,VB NN,2
+old,NN,2
+todays,NN,2
+tv,NN,2
+bag,NN,2
+figure,NN,2
+ash,NN,2
+driver,NN,2
+hawks,NN,2
+teams,NN,2
+hey,NN,2
+job,NN,2
+colin,NN,2
+fans,NN,2
+chicks,NN,2
+katie,NN,2
+ah,NN,2
+think women,VB NN,2
+models,NN,2
+sports,NN,2
+w/o,NN,2
+drivers,NN,2
+fuck,NN,2
+son,NN,2
+hashtag,NN,2
+mom,NN,2
+instant restaurant,JJ NN,2
+start,NN,2
+times,NN,2
+2,CD,2
+guns,NN,2
+sasquatch,NN,2
+doctor,NN,2
+ladies,NN,2
+school,NN,2
+blonde,NN,2
+student,NN,2
+mouth,NN,2
+must,NN,2
+y'all,NN,2
+cat,NN,2
+thor,NN,2
+nhl,NN,2
+yeah colin,NN NN,2
+truck,NN,2
+boys,NN,2
+drasko,NN,2
+hate,NN,2
+hostile help line,JJ NN NN,1
+skaters,NN,1
+media,NN,1
+drummers,NN,1
+gender studies,NN NN,1
+stats,NN,1
+supporters,NN,1
+book,NN,1
+drugs,NN,1
+viewers,NN,1
+friendzone,NN,1
+push,NN,1
+scientists,NN,1
+6,CD,1
+sassy foods,NN NN,1
+visitation,NN,1
+timeline,NN,1
+supre,NN,1
+all day,DT NN,1
+100s of years,CD IN NN,1
+series,NN,1
+sausage,NN,1
+yall,NN,1
+bimboz,NN,1
+kant,NN,1
+super bowl,JJ NN,1
+horrible person,JJ NN,1
+pink room,JJ NN,1
+tumblr,NN,1
+western boots,JJ NN,1
+artists,NN,1
+time magazine,NN NN,1
+time feminism,NN NN,1
+google,NN,1
+needs,NN,1
+rivals,NN,1
+keeps,NN,1
+might,NN,1
+fouls,NN,1
+sucks,NN,1
+29,CD,1
+female commentators,JJ NN,1
+actor/actress,NN,1
+ya,NN,1
+twitter,NN,1
+pure,NN,1
+world countries,NN NN,1
+sjw feminists,NN NN,1
+white knights,JJ NN,1
+frauleins,NN,1
+welles,NN,1
+every day,DT NN,1
+criminals,NN,1
+marvel,NN,1
+protagonist,NN,1
+bosom,NN,1
+kardashians,NN,1
+male survivors,JJ NN,1
+look,NN,1
+chicken,NN,1
+mans,NN,1
+crazy bambi,NN NN,1
+majority of females,NN IN NN,1
+bloody women,JJ NN,1
+two people,CD NN,1
+contestants,NN,1
+scoring,NN,1
+female pilots,JJ NN,1
+accusers,NN,1
+likes,NN,1
+female captain,JJ NN,1
+bf,NN,1
+amazing writer,JJ NN,1
+think men,VB NN,1
+reason,NN,1
+2016,CD,1
+hypocrites,NN,1
+valenti,NN,1
+employees,NN,1
+harry,NN,1
+movies,NN,1
+considers,NN,1
+girls/women,NN,1
+joke,NN,1
+female singers,JJ NN,1
+personal opinions,JJ NN,1
+players,NN,1
+w/,NN,1
+commenters,NN,1
+claims,NN,1
+one day,CD NN,1
+friends,NN,1
+evan fornier,NN NN,1
+vincent,NN,1
+well,NN,1
+rekindles,NN,1
+sabres,NN,1
+interactions,NN,1
+table,NN,1
+victim,NN,1
+watching women,VB NN,1
+police boat,NN NN,1
+scientific evidence,JJ NN,1
+name,NN,1
+kind of stuff,NN IN NN,1
+jackets,NN,1
+judge,NN,1
+many men,JJ NN,1
+shouldnt,NN,1
+said people,VB NN,1
+33:33,CD,1
+seeds,NN,1
+husband,NN,1
+carrots,NN,1
+tonight,NN,1
+retort,NN,1
+offence,NN,1
+male,NN,1
+woman commentator,NN NN,1
+paul elam,NN NN,1
+worn,NN,1
+hillary,NN,1
+clinton,NN,1
+coworkers,NN,1
+husbands,NN,1
+saying men,VB NN,1
+female,NN,1
+theyd,NN,1
+concussions,NN,1
+money,NN,1
+crack whore,NN NN,1
+misogynists,NN,1
+lights,NN,1
+knowledge of feminism,NN IN NN,1
+police department,NN NN,1
+switch,NN,1
+reliever,NN,1
+1980s,CD,1
+comics,NN,1
+tart,NN,1
+always,NN,1
+stanley cup finals,NN NN NN,1
+ion,NN,1
+economics,NN,1
+annie/lloyd,NN,1
+krazy-eyes kat,NN NN,1
+many women,JJ NN,1
+fingers,NN,1
+a+,NN,1
+thrift shop,NN NN,1
+word,NN,1
+london,NN,1
+society,NN,1
+female goal,JJ NN,1
+opposite sex,JJ NN,1
+bigots,NN,1
+biurny pegeuro,NN NN,1
+faggots,NN,1
+younger generations,JJ NN,1
+studies,NN,1
+12,CD,1
+lie,NN,1
+let people,VB NN,1
+pretzel,NN,1
+male opinion,JJ NN,1
+viking,NN,1
+whole country,JJ NN,1
+opinions,NN,1
+good job,JJ NN,1
+discussions,NN,1
+female hockey fans,JJ NN NN,1
+smart woman,JJ NN,1
+emotions,NN,1
+anthem,NN,1
+fighting chance,NN NN,1
+imma,NN,1
+chick,NN,1
+lady,NN,1
+mens,NN,1
+darts,NN,1
+lot of females,NN IN NN,1
+soo,NN,1
+relationships,NN,1
+female bus driver,JJ NN NN,1
+reverse,NN,1
+arsehole,NN,1
+stoner,NN,1
+fights,NN,1
+new people,JJ NN,1
+image,NN,1
+gop,NN,1
+funny woman,JJ NN,1
+thots,NN,1
+got,NN,1
+author,NN,1
+cunt,NN,1
+speech,NN,1
+wings,NN,1
+gov,NN,1
+male victims,NN NN,1
+basketball,NN,1
+ones,NN,1
+flavours,NN,1
+tom cruise,NN NN,1
+my kitchen rules when will people,PR NN NN WR NN NN,1
+women comedians,NN NN,1
+speaker,NN,1
+artist formerly,NN NN,1
+legal system,JJ NN,1
+slogans,NN,1
+many producers,JJ NN,1
+tits,NN,1
+armpit,NN,1
+mras,NN,1
+wife,NN,1
+patricia arquette,NN NN,1
+gibson,NN,1
+whats,NN,1
+fight,NN,1
+jobs,NN,1
+announcers,NN,1
+internet,NN,1
+pink,NN,1
+democratic people 's republic of korea,JJ NN PO NN IN NN,1
+gf/woman/wife,NN,1
+hayi,NN,1
+circumstances,NN,1
+vawa,NN,1
+reality tv,NN NN,1
+manu,NN,1
+aka,NN,1
+alot of women,NN IN NN,1
+lawmaker,NN,1
+female managers,JJ NN,1
+good salary,JJ NN,1
+note,NN,1
+questionsformen,NN,1
+personalities,NN,1
+promo,NN,1
+tidies,NN,1
+female cast,JJ NN,1
+get people,VB NN,1
+counter.also,NN,1
+fault people,NN NN,1
+ex wife,JJ NN,1
+sentences,NN,1
+musicians,NN,1
+nate,NN,1
+woman ref,NN NN,1
+utah court,JJ NN,1
+wait,NN,1
+havent,NN,1
+many tickets,JJ NN,1
+will republicans,MD NN,1
+obama,NN,1
+emotional decisions,JJ NN,1
+shirt,NN,1
+jaguar,NN,1
+casting people,NN NN,1
+just,NN,1
+let women,VB NN,1
+balls,NN,1
+nsw,NN,1
+football game,NN NN,1
+eoman,NN,1
+damn,NN,1
+punishment,NN,1
+formula,NN,1
+hrs,NN,1
+rainn,NN,1
+politics,NN,1
+referees,NN,1
+ill,NN,1
+marine corps,JJ NN,1
+woman football commentators,NN NN NN,1
+pigs,NN,1
+social justice,NN NN,1
+snowboard,NN,1
+steve,NN,1
+constructed personalities,VB NN,1
+lives,NN,1
+america,NN,1
+twit,NN,1
+paternity,NN,1
+writing,NN,1
+campers,NN,1
+baby,NN,1
+hath,NN,1
+many guys,JJ NN,1
+bianca,NN,1
+noone,NN,1
+right,NN,1
+armpits,NN,1
+good article,JJ NN,1
+trump,NN,1
+red head,JJ NN,1
+food,NN,1
+never,NN,1
+strategy,NN,1
+nicki,NN,1
+tide,NN,1
+heaven,NN,1
+radfems,NN,1
+burkhah,NN,1
+dudes,NN,1
+comments,NN,1
+female sports anchors,JJ NN NN,1
+lot of women,NN IN NN,1
+pretty,NN,1
+games,NN,1
+cows,NN,1
+military battles,JJ NN,1
+water,NN,1
+way,NN,1
+sanitary towels,JJ NN,1
+sportscenter,NN,1
+watching sports,VB NN,1
+difficulty,NN,1
+bill,NN,1
+ugirls,NN,1
+lack of talent,NN IN NN,1
+posh,NN,1
+ma life,JJ NN,1
+class,NN,1
+scrubbers,NN,1
+great goal,JJ NN,1
+majority of woman,NN IN NN,1
+gender politics,NN NN,1
+bodies,NN,1
+asses,NN,1
+bottom,NN,1
+tradesmen,NN,1
+use,NN,1
+females journalists,NN NN,1
+release,NN,1
+centers,NN,1
+heck,NN,1
+shots,NN,1
+-kaylies,NN,1
+b*tches,NN,1
+followers,NN,1
+hahahahahha,NN,1
+character,NN,1
+jokes,NN,1
+bank accounts,NN NN,1
+slim thug,NN NN,1
+hat,NN,1
+woman announcer,NN NN,1
+ears,NN,1
+motive,NN,1
+states,NN,1
+single men,JJ NN,1
+gf,NN,1
+menus,NN,1
+reproductive rights,JJ NN,1
+oktar,NN,1
+child,NN,1
+missus,NN,1
+price,NN,1
+televisions,NN,1
+camilla,NN,1
+skills.please,NN,1
+1 or 2 %,CD CC CD NN,1
+answer,NN,1
+community,NN,1
+characters.kat,NN,1
+babes,NN,1
+na,NN,1
+crazy eyes,JJ NN,1
+process,NN,1
+group projects,NN NN,1
+social justice warrior,NN NN NN,1
+lloyd,NN,1
+*drinks,NN,1
+thing,NN,1
+sheri,NN,1
+20 %,CD NN,1
+flyers,NN,1
+accuser,NN,1
+colorado,NN,1
+smug,NN,1
+fuckwits,NN,1
+quit,NN,1
+suffragettes,NN,1
+familiar,NN,1
+victimhood,NN,1
+friend,NN,1
+woman sports analysts,NN NN NN,1
+conceit,NN,1
+game,NN,1
+kara lawson,NN NN,1
+rowe,NN,1
+female announcers,JJ NN,1
+besides,NN,1
+thats,NN,1
+hoes,NN,1
+michael,NN,1
+privilege,NN,1
+real ladies,JJ NN,1
+business,NN,1
+cammi granato,NN NN,1
+think women,JJ NN,1
+idk,NN,1
+hahahahahahaha,NN,1
+society wont,NN NN,1
+karma,NN,1
+alerts,NN,1
+p600,NN,1
+jeb,NN,1
+moles,NN,1
+real man,JJ NN,1
+tweet,NN,1
+ego,NN,1
+candidates,NN,1
+y'all women,JJ NN,1
+dood,NN,1
+cigarette packets,NN NN,1
+end of the day,NN IN DT NN,1
+old hat,JJ NN,1
+chill,NN,1
+cunts,NN,1
+typical woman,JJ NN,1
+scott walker,NN NN,1
+students,NN,1
+applicants,NN,1
+yeas,NN,1
+case,NN,1
+tweets,NN,1
+whatya,NN,1
+good luck,JJ NN,1
+nagging,NN,1
+household,NN,1
+everything men,NN NN,1
+men hate,NN NN,1
+gary,NN,1
+diy,NN,1
+eyes,NN,1
+100 %,CD NN,1
+unfair process,JJ NN,1
+10-year-olds,NN,1
+much history,JJ NN,1
+things,NN,1
+hands,NN,1
+mfw,NN,1
+self,NN,1
+celine,NN,1
+fletch,NN,1
+welfare,NN,1
+levels,NN,1
+life,NN,1
+wonder,NN,1
+kids,NN,1
+and*,NN,1
+blondies,NN,1
+infantry,NN,1
+handbags,NN,1
+avs,NN,1
+egos,NN,1

@@ -1,0 +1,375 @@
+concept,pos,tf_collection
+islam,NN,91
+muslims,NN,84
+mohammed,NN,72
+isis,NN,32
+prophet,NN,22
+quran,NN,18
+people,NN,17
+jews,NN,14
+muslim,NN,12
+religion,NN,11
+women,NN,11
+hamas,NN,10
+world,NN,9
+salon,NN,9
+woman,NN,7
+hadith,NN,7
+allah,NN,6
+jesus,NN,6
+christians,NN,6
+men,NN,6
+prophet mohammed,NN NN,5
+idiots,NN,5
+humanity,NN,5
+slavery,NN,4
+saudi,NN,4
+scum,NN,4
+israel,NN,4
+americans,NN,4
+palestinians,NN,4
+daesh,NN,4
+hindus,NN,3
+idiot,NN,3
+sharia,NN,3
+kurds,NN,3
+god,NN,3
+hate,NN,3
+man,NN,3
+blumenthal,NN,3
+law,NN,3
+militia,NN,3
+westerners,NN,3
+islamolunatics,NN,3
+pedophile,NN,3
+ones,NN,3
+hitler,NN,2
+gays,NN,2
+polls,NN,2
+groups,NN,2
+arabs,NN,2
+civilization,NN,2
+animals,NN,2
+mankind,NN,2
+earth,NN,2
+rotherham,NN,2
+europeans,NN,2
+israelis,NN,2
+girls,NN,2
+europe,NN,2
+pc,NN,2
+fraud,NN,2
+guy,NN,2
+let women,VB NN,2
+christianity,NN,2
+jewish,NN,2
+hate cult,NN NN,2
+may allah,NN NN,2
+lunatics,NN,2
+race,NN,2
+pkk,NN,2
+media,NN,2
+city,NN,2
+fool,NN,2
+mohamed,NN,2
+let people,VB NN,2
+children,NN,2
+sun,NN,2
+civilians,NN,2
+hadiths,NN,2
+western feminists,JJ NN,2
+bigots,NN,2
+baghdadi,NN,2
+turkey,NN,2
+liar,NN,2
+arabian peninsula,JJ NN,1
+terrorists,NN,1
+female engineers,JJ NN,1
+daughters,NN,1
+suggestion,NN,1
+members,NN,1
+christian churches,JJ NN,1
+niggers,NN,1
+trolls,NN,1
+proph,NN,1
+buddha,NN,1
+extermination,NN,1
+sexist religion,JJ NN,1
+heads,NN,1
+black lives matter,NN VB NN,1
+kuffar,NN,1
+clear white boys,JJ JJ NN,1
+abt,NN,1
+black ppl,JJ NN,1
+mecca,NN,1
+child soldiers,JJ NN,1
+writer,NN,1
+database,NN,1
+total idiot,JJ NN,1
+supreme court,NN NN,1
+dumb muslims,NN NN,1
+imams,NN,1
+thugs,NN,1
+corner,NN,1
+muslim nations,NN NN,1
+weapons,NN,1
+dress,NN,1
+kufiri,NN,1
+yahya,NN,1
+shia,NN,1
+choppers,NN,1
+land,NN,1
+discoveries,NN,1
+un soldiers,JJ NN,1
+go,NN,1
+mus,NN,1
+christian people,JJ NN,1
+medina mohammed,NN NN,1
+pedophiles,NN,1
+fact,NN,1
+history,NN,1
+criminal prosecutors,JJ NN,1
+revelations,NN,1
+poor women,JJ NN,1
+terrorist,NN,1
+100,CD,1
+means,NN,1
+dump,NN,1
+bikini,NN,1
+burak,NN,1
+khybar,NN,1
+darren wilson,NN NN,1
+criminal bitch,JJ NN,1
+raqqa,NN,1
+civilized countries,JJ NN,1
+region,NN,1
+make money,VB NN,1
+terror attack,NN NN,1
+editor,NN,1
+pakistan muslims,NN NN,1
+hey,NN,1
+aussies,NN,1
+shells,NN,1
+press,NN,1
+africans,NN,1
+two,CD,1
+️will obama,NN NN,1
+about the thousands,IN DT NN,1
+minority religions,NN NN,1
+terrorist god,NN NN,1
+involves,NN,1
+egypt,NN,1
+child rape gang cases,NN NN NN NN,1
+theresa may today,NN NN NN,1
+judaism,NN,1
+avoids,NN,1
+moohammed,NN,1
+arab muslims,NN NN,1
+cult of death,NN IN NN,1
+forces,NN,1
+the atlantic,DT NN,1
+lao tse,NN NN,1
+dark,NN,1
+radicals,NN,1
+vile people,JJ NN,1
+numbers,NN,1
+convert,NN,1
+murder,NN,1
+asshole,NN,1
+islamophobe,NN,1
+journalist,NN,1
+islamists,NN,1
+friends,NN,1
+last tiny piece of land,JJ JJ NN IN NN,1
+states,NN,1
+just people,RB NN,1
+karen armstrong,NN NN,1
+taliban,NN,1
+resources,NN,1
+holocaust,NN,1
+list of crimes,NN IN NN,1
+good morning,JJ NN,1
+wales,NN,1
+solider,NN,1
+50-yr-old man,JJ NN,1
+teaching,NN,1
+minorities,NN,1
+mo,NN,1
+conspiracy theories,NN NN,1
+voices,NN,1
+stop people,VB NN,1
+nick griffin,NN NN,1
+murderers of children,NN IN NN,1
+child,NN,1
+politician,NN,1
+national leaders,JJ NN,1
+school district,NN NN,1
+satan,NN,1
+kinds of people,NN IN NN,1
+watching shia militia,VB NN NN,1
+hollande,NN,1
+the terrorists,DT NN,1
+west,NN,1
+talmud,NN,1
+egyptians,NN,1
+zionism,NN,1
+racist,NN,1
+️obama,NN,1
+quotes,NN,1
+journalists,NN,1
+many times,JJ NN,1
+infidel,NN,1
+defames,NN,1
+2/3,CD,1
+military defeat,JJ NN,1
+statistics,NN,1
+muslim nazis,NN NN,1
+max,NN,1
+obama,NN,1
+small fraction of the land,JJ NN IN DT NN,1
+psychopaths,NN,1
+militants,NN,1
+some people,DT NN,1
+catapults,NN,1
+bb,NN,1
+end result,NN NN,1
+bombing,NN,1
+record of animals,NN IN NN,1
+politicians,NN,1
+cathedral,NN,1
+council,NN,1
+religious police,JJ NN,1
+large forces of religious police,JJ NN IN JJ NN,1
+way of life,NN IN NN,1
+brigade,NN,1
+enslave,NN,1
+criminals,NN,1
+norway,NN,1
+buddhist,NN,1
+.islam,NN,1
+charges,NN,1
+bullshit,NN,1
+tikrit,NN,1
+iraqi shia,NN NN,1
+83:25,CD,1
+organizations,NN,1
+muslim countries,NN NN,1
+liars,NN,1
+grand mufti,NN NN,1
+rapists,NN,1
+armies,NN,1
+islamist erdogan,NN NN,1
+iraq,NN,1
+democrats,NN,1
+followers of the religion,NN IN DT NN,1
+religion of peace,NN IN NN,1
+clown,NN,1
+fsa,NN,1
+freedom of speech,NN IN NN,1
+activities,NN,1
+propaganda word,NN NN,1
+umar,NN,1
+giuliani,NN,1
+tyrants,NN,1
+mosul,NN,1
+islamolunatic,NN,1
+jihadists,NN,1
+muslim americans,NN NN,1
+1/3,CD,1
+throws,NN,1
+8.12,CD,1
+doctrine,NN,1
+contribution,NN,1
+radical islam,NN NN,1
+sexism,NN,1
+mythical creatures of fire,JJ NN IN NN,1
+crimes,NN,1
+western world,JJ NN,1
+part,NN,1
+kayla mueller,NN NN,1
+blacks,NN,1
+report,NN,1
+islamist,NN,1
+day,NN,1
+muslim people,JJ NN,1
+christian,NN,1
+cunt.you,NN,1
+radicalization,NN,1
+images,NN,1
+excuse mankind,NN NN,1
+illegals,NN,1
+prophet rape,NN NN,1
+street,NN,1
+preacher,NN,1
+tells,NN,1
+believe system,NN NN,1
+towel,NN,1
+barbarity,NN,1
+rats,NN,1
+tax money,NN NN,1
+peshmerga,NN,1
+doctors,NN,1
+turks,NN,1
+rare response,JJ NN,1
+filthy islam,NN NN,1
+ally,NN,1
+pact,NN,1
+40 %,CD NN,1
+islamic,NN,1
+america,NN,1
+statement,NN,1
+picture,NN,1
+sanctions,NN,1
+austrians,NN,1
+jordan,NN,1
+islamic states,JJ NN,1
+professor,NN,1
+inventions,NN,1
+science,NN,1
+these days,DT NN,1
+israeli,NN,1
+actual muslims,JJ NN,1
+quran islam,NN NN,1
+muhammad,NN,1
+heroes,NN,1
+called moderates,VB NN,1
+later verses,JJ NN,1
+honor,NN,1
+three thousand,CD NN,1
+testimony,NN,1
+entire world,JJ NN,1
+may,NN,1
+muslim joke,NN NN,1
+12-year-old pregnant wife,JJ JJ NN,1
+get,NN,1
+2:282,CD,1
+jew,NN,1
+kheitir,NN,1
+racists,NN,1
+link,NN,1
+hadiths mohammed,NN NN,1
+commit,NN,1
+prophet murder,NN NN,1
+traffic light,NN NN,1
+indians,NN,1
+troll,NN,1
+protesters,NN,1
+board of elections,NN IN NN,1
+symptom,NN,1
+study,NN,1
+evidence,NN,1
+palestinian muslim,NN NN,1
+entire,NN,1
+torah,NN,1
+followers,NN,1
+opens,NN,1
+muslim pakistani,NN NN,1
+terrorism,NN,1
+stop,NN,1
+lawyer,NN,1
+mahmoud abbas,NN NN,1
+doncha,NN,1
+three,CD,1
+bangladesh,NN,1
+age,NN,1
+army,NN,1
